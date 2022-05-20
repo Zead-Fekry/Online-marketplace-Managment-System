@@ -1,0 +1,6 @@
+# Online-marketplace-Managment-System
+Purpose: This online shopping market system aims to provide complete solutions for users by using the internet as a medium to buy and sell products without having to visit the shop and provide the facility of paying by the credit card or cash on delivery. This system also aims to save the customer’s time and energy by shopping at home. It can be used by anyone, and it doesn’t require any prior experience.  
+System Functionality: each user can access the system by entering his email and password in case he/she already has an account on the system or by signing up. The system allows user to search for products by categories or name and the user have the option view the product's details and add it to the cart, view his/her cart and add or remove the products from it. 
+The admin accesses the system through logging in with specific email and password. Also, can view the customer’s requests to launch an item and approve or reject the request, manage transactions, customers’ complaints and orders, view the products’ reviews and remove the bad products. 
+The system stores all the products in a database and all the changes that happen in the system is modified in the database. 
+ 
